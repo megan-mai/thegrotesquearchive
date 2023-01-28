@@ -1,0 +1,21 @@
+
+.right{
+display: block;
+border-style: dotted;
+width: 70%;
+}
+
+
+.item{
+  width: 100%;
+}
+
+.full_desc{
+  overflow: visible;
+  position: sticky;
+  top: 0;
+  width: 30%;
+  height: 100%;
+  border-style: dotted;
+  padding-right: 12px;
+}

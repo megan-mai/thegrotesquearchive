@@ -1,0 +1,28 @@
+
+.altright{
+  font-size: 16px;
+  display: flex;
+  /* border-style: dotted; */
+  padding: 12px;
+  width: 80vw;
+}
+
+.about{
+  font-size: inherit;
+  padding: 12px;
+  width:40%;
+}
+.contact{
+  font-size: inherit;
+  padding: 12px;
+  width: 40%;
+
+}
+
+#shop{
+  color: grey;
+}
+
+#about{
+  color: black;
+}
