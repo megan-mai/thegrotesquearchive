@@ -10,7 +10,7 @@ body, html {
 }
 
 * {
-
+  scroll-behavior: smooth;
   font-size: 14px;
   font-family: IBMPlexMono;
 }
@@ -228,7 +228,7 @@ img:hover:after {
     /* border-style: dotted; */
     padding-right: 16px;
     display: block;
-    padding: 16px 12px 16px 12px;
+    padding: 18px 12px 16px 12px;
   }
 
   .top {
@@ -270,7 +270,7 @@ img:hover:after {
 }
 
 /* No column*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
   .container {
     /* border-style: dotted; */
     border-color: blue;
