@@ -140,7 +140,7 @@ img:hover:after {
   background: white;
   justify-content: space-around;
   width: 100%;
-  padding: 18px 0px 16px 0px;
+  padding: 22px 0px 16px 0px;
 }
 
 .top {
@@ -228,7 +228,7 @@ img:hover:after {
     /* border-style: dotted; */
     padding-right: 16px;
     display: block;
-    padding: 18px 12px 16px 12px;
+    padding: 22px 12px 16px 12px;
   }
 
   .top {
@@ -260,7 +260,7 @@ img:hover:after {
 
   .menu {
     /* border-style: dotted; */
-    padding: 16px 0px 16px 0px;
+    padding: 22px 0px 16px 0px;
     justify-content: left;
   }
 
