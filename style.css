@@ -31,6 +31,7 @@ a {
 
 a:hover {
   font-style: italic;
+  color: red;
 }
 
 a:focus {
@@ -90,6 +91,8 @@ img:hover:after {
 }
 
 .left {
+  /* border-style: dotted; */
+  margin-left:12px;
   position: relative;
   text-align: center;
   padding: 20px 20px 20px 20px;
@@ -109,6 +112,7 @@ img:hover:after {
 
 } */
 .about {
+  /* border-style: dotted; */
   text-align: left;
   margin-bottom: 32px;
   line-height: 1.5;
@@ -122,7 +126,7 @@ img:hover:after {
 .title {
   position: absolute;
   bottom: 32px;
-  width: 90%;
+  width: 82%;
   /* border-style: dashed; */
   /* font-size: 24px;
   font-style: bold; */
@@ -153,6 +157,7 @@ img:hover:after {
 }
 
 .right {
+  margin-right:12px;
   /* border-style: dotted; */
   display: block;
   width: 80vw;
@@ -286,9 +291,9 @@ img:hover:after {
   }
 
   .left {
+
     display: flex;
     justify-content: center;
-    /* border-style: dashed; */
     margin: 0px;
     position: relative;
     width: auto;
